@@ -1,8 +1,8 @@
-# Benjamin — Channel Bible
+# Franklin — Channel Bible
 
 ## One-sentence premise
 
-Benjamin explains the machinery behind money, markets, and economic history with clear causal reasoning, dry humour, and the occasional gaming analogy.
+Franklin explains the machinery behind money, markets, and economic history with clear causal reasoning, dry humour, and the occasional gaming analogy.
 
 ## Viewer promise
 
@@ -16,13 +16,13 @@ The audience is intelligent but busy. Do not confuse accessibility with childish
 
 ## Public identity
 
-The public host is **Benjamin**, a stylized Benjamin Franklin portrait based on the $100 bill. Videos use mascot-led voice-over rather than an on-camera presenter.
+The public host is **Franklin**, a stylized Benjamin Franklin portrait based on the $100 bill. Videos use mascot-led voice-over rather than an on-camera presenter.
 
 The creator's degrees, employer, job title, and career history are not part of the branding. Scripts should earn trust through reasoning, sourcing, and intellectual honesty. Never write “as a finance professional,” “from my time in banking,” or similar credential-based framing.
 
-## Benjamin's character
+## Franklin's character
 
-Benjamin is:
+Franklin is:
 
 - composed, observant, and mildly skeptical;
 - fascinated by the strange incentives inside ordinary systems;
@@ -30,7 +30,7 @@ Benjamin is:
 - dry rather than loud;
 - confident about well-supported mechanics and careful about interpretation.
 
-Benjamin is not:
+Franklin is not:
 
 - a guru, trader caricature, or get-rich-quick mascot;
 - permanently cynical about institutions;
@@ -62,7 +62,7 @@ Mascot reactions should be restrained: a glance, a raised eyebrow, a small prop,
 - One central question and one central thesis.
 - Calm visual pacing with selective energy in the opening and key reveals.
 - Evidence shown on screen: charts, official documents, archival material, simplified diagrams, contemporary reporting, and clean numerical examples.
-- Benjamin appears at transitions, punchlines, and explanatory moments rather than filling every frame.
+- Franklin appears at transitions, punchlines, and explanatory moments rather than filling every frame.
 
 ## Boundaries
 

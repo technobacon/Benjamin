@@ -1,4 +1,4 @@
-# Benjamin — Idea Bank
+# Franklin — Idea Bank
 
 Every entry begins as a tension and an arguable thesis. “Inflation” is a subject. “Inflation fell, but prices did not” contains a viewer problem and can become a video.
 
@@ -199,7 +199,7 @@ The scores are close because these ideas have already passed the basic topic fil
 - **Likely runtime:** 11–14 minutes
 - **Best evidence or case:** Central-bank estimates of neutral rates, real-rate calculations, and episodes where the stance of policy was misread.
 - **Strongest counterargument:** Estimates can still guide policy even when uncertain; unobservable does not mean imaginary or useless.
-- **Visual anchor:** Benjamin operates an interest-rate dial whose neutral marker keeps moving.
+- **Visual anchor:** Franklin operates an interest-rate dial whose neutral marker keeps moving.
 - **Freshness risk:** Medium if using current neutral-rate estimates.
 - **Potential score:** C5 / P5 / T5 / E5 / V4 / F3 = **27/30**
 

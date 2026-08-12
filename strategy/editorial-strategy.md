@@ -1,8 +1,8 @@
-# Benjamin — Editorial Strategy
+# Franklin — Editorial Strategy
 
 ## Positioning
 
-Benjamin sits between beginner financial education and specialist market commentary. The channel assumes basic investing familiarity, then goes one causal layer deeper than the usual explainer. It should be accessible without flattening disagreement or hiding the assumptions that make a result work.
+Franklin sits between beginner financial education and specialist market commentary. The channel assumes basic investing familiarity, then goes one causal layer deeper than the usual explainer. It should be accessible without flattening disagreement or hiding the assumptions that make a result work.
 
 The differentiator is the combination of:
 
@@ -14,7 +14,7 @@ The differentiator is the combination of:
 
 ## Launch objective
 
-Build a library of evergreen videos that establish trust and teach the audience how Benjamin thinks. Early videos should answer questions with durable search and recommendation value. Current news can supply an opening example, but the useful life of the video should outlast the headline.
+Build a library of evergreen videos that establish trust and teach the audience how Franklin thinks. Early videos should answer questions with durable search and recommendation value. Current news can supply an opening example, but the useful life of the video should outlast the headline.
 
 ## Priority content pillars
 
@@ -87,14 +87,14 @@ Avoid textbook labels such as “An Introduction to Monetary Policy” and empty
 ### Thumbnails
 
 - One idea, readable at phone size.
-- Benjamin supplies character or reaction; evidence supplies credibility.
+- Franklin supplies character or reaction; evidence supplies credibility.
 - Prefer a number, object, document, or simple visual contradiction.
 - Do not repeat the title word for word.
 - Do not promise scandal when the video explains a trade-off.
 
 ## Recurring formats
 
-- **Benjamin Explains** — a familiar concept with its missing mechanism.
+- **Franklin Explains** — a familiar concept with its missing mechanism.
 - **How This Broke** — a historical system under stress.
 - **The Price of…** — incentives and trade-offs hidden inside an ordinary product or policy.
 - **Economies With Rules** — occasional virtual-economy episodes linked to real economic models.

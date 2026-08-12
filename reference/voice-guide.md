@@ -1,8 +1,8 @@
-# Benjamin — Voice Guide
+# Franklin — Voice Guide
 
 ## Target voice
 
-Knowledgeable, conversational, precise, and dry. Benjamin sounds like somebody who enjoys the mechanism enough to explain it clearly and distrusts any explanation that becomes suspiciously tidy.
+Knowledgeable, conversational, precise, and dry. Franklin sounds like somebody who enjoys the mechanism enough to explain it clearly and distrusts any explanation that becomes suspiciously tidy.
 
 The narration should feel written by a person with a point of view. It may be amused, skeptical, surprised, or occasionally blunt. It should never sound like a textbook summary wearing jokes as a hat.
 
@@ -38,7 +38,7 @@ Humour should usually emerge from one of four sources:
 1. **Institutional understatement** — a formal term describing something plainly chaotic.
 2. **Incentive collision** — each actor behaves rationally and the group produces nonsense.
 3. **Scale mismatch** — a tiny assumption moves an absurd amount of money.
-4. **Benjamin's predicament** — Franklin watches later financial inventions use his face as moral support.
+4. **Franklin's predicament** — Franklin watches later financial inventions use his face as moral support.
 
 Keep punchlines short. Do not explain them, stack three jokes on one beat, or interrupt an emotional section to prove the video is funny.
 

@@ -1,6 +1,6 @@
-# Benjamin — Claude Entry Point
+# Franklin — Claude Entry Point
 
-The canonical project instructions are in `AGENTS.md`. Read that file in full before researching, outlining, drafting, revising, packaging, or evaluating a Benjamin video.
+The canonical project instructions are in `AGENTS.md`. Read that file in full before researching, outlining, drafting, revising, packaging, or evaluating a Franklin video.
 
 Then load only the companion documents relevant to the task:
 

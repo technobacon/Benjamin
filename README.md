@@ -1,8 +1,8 @@
-# Benjamin — Finance and Economics Video Workshop
+# Franklin — Finance and Economics Video Workshop
 
-Working repository for researching, developing, and writing videos for **Benjamin**, a mascot-led YouTube channel about finance, economics, and financial history.
+Working repository for researching, developing, and writing videos for **Franklin**, a mascot-led YouTube channel about finance, economics, and financial history.
 
-Benjamin explains ideas that are often made needlessly intimidating. The target viewer already understands basic investing vocabulary but should not need a finance degree, an economics textbook, or a Bloomberg terminal to follow a video.
+Franklin explains ideas that are often made needlessly intimidating. The target viewer already understands basic investing vocabulary but should not need a finance degree, an economics textbook, or a Bloomberg terminal to follow a video.
 
 ## Canon
 
@@ -11,7 +11,7 @@ Benjamin explains ideas that are often made needlessly intimidating. The target 
 | `AGENTS.md` | Canonical operating instructions for AI collaborators. Accuracy, workflow, writing standards, and hard boundaries. |
 | `CLAUDE.md` | Entry point for Claude-based sessions; routes them to the canonical instructions. |
 | `strategy/editorial-strategy.md` | Content pillars, launch priorities, topic filters, and channel differentiation. |
-| `reference/channel-bible.md` | Audience, promise, Benjamin's persona, format, visual identity, and editorial boundaries. |
+| `reference/channel-bible.md` | Audience, promise, Franklin's persona, format, visual identity, and editorial boundaries. |
 | `reference/voice-guide.md` | Spoken voice, humour, gaming-reference rules, and anti-AI writing checks. |
 | `reference/research-standards.md` | Source hierarchy, claim verification, calculations, historical causality, and finance-specific safeguards. |
 | `reference/script-template.md` | Reusable structure for a 10–15 minute video, including research and visual fields. |

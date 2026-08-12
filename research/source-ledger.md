@@ -1,4 +1,4 @@
-# Benjamin — Source and Claim Ledger
+# Franklin — Source and Claim Ledger
 
 Create a topic-specific copy when a project becomes active: `research/YYYY-MM-DD-topic-slug.md`.
 

@@ -1,8 +1,8 @@
-# Benjamin — Research and Accuracy Standard
+# Franklin — Research and Accuracy Standard
 
 ## Purpose
 
-Finance and economics reward false precision. A clean number can hide a revised series, incompatible definitions, a changed denominator, or a model assumption doing most of the work. Research for Benjamin must preserve enough context for the claim to remain true after it becomes narration.
+Finance and economics reward false precision. A clean number can hide a revised series, incompatible definitions, a changed denominator, or a model assumption doing most of the work. Research for Franklin must preserve enough context for the claim to remain true after it becomes narration.
 
 ## Source hierarchy
 

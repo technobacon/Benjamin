@@ -1,4 +1,4 @@
-# Benjamin — Script Template
+# Franklin — Script Template
 
 Delete instructional text as the project matures. Do not draft narration until the thesis and claim ledger are strong enough to support it.
 
@@ -19,7 +19,7 @@ Delete instructional text as the project matures. Do not draft narration until t
 
 ## General visual style
 
-Write two to four sentences covering palette, mood, asset mix, the role of Benjamin, and motion language. Default to restrained editorial collage: currency-green and warm paper tones, archival material, official documents, clean charts, simple diagrams, and modest mascot reactions. Use motion to direct attention rather than keep the frame permanently busy.
+Write two to four sentences covering palette, mood, asset mix, the role of Franklin, and motion language. Default to restrained editorial collage: currency-green and warm paper tones, archival material, official documents, clean charts, simple diagrams, and modest mascot reactions. Use motion to direct attention rather than keep the frame permanently busy.
 
 ## Argument map
 
@@ -127,6 +127,6 @@ Narration:
 
 - [ ] Visual cues are specific and feasible.
 - [ ] Charts identify units, dates, and sources.
-- [ ] Benjamin supports rather than crowds the evidence.
+- [ ] Franklin supports rather than crowds the evidence.
 - [ ] The title and thumbnail promise are fulfilled.
 

@@ -298,7 +298,8 @@ The scores are close because these ideas have already passed the basic topic fil
 ### A Profitable Company Can Still Go Bankrupt
 
 - **Pillar:** Familiar concept, missing mechanism
-- **Status:** spark — highest-scoring launch candidate
+- **Status:** researched — detailed dossier and 10-minute outline complete
+- **Research dossier:** [`research/2026-08-12-profitable-company-bankruptcy.md`](../research/2026-08-12-profitable-company-bankruptcy.md)
 - **Central question:** How can a company report a profit while running out of money?
 - **Provisional thesis:** Profit measures economic performance under accounting rules, while bankruptcy arrives when cash obligations cannot be met on time; working capital, growth, debt maturities, and refinancing connect the two.
 - **Viewer begins believing:** A profitable company necessarily generates enough cash to survive.
@@ -459,4 +460,3 @@ The scores are close because these ideas have already passed the basic topic fil
 ## Parked ideas
 
 Keep ideas here when evidence is weak, the thesis duplicates an existing project, the title promises more than the research can support, or production is currently too demanding. Record why an idea was parked so the same dead end is not researched twice.
-

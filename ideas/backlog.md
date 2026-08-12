@@ -71,7 +71,9 @@ The scores are close because these ideas have already passed the basic topic fil
 ### America Had Enough Coins. It Still Ran Out.
 
 - **Pillar:** Small event, big economic mechanism
-- **Status:** spark — best new launch candidate
+- **Status:** researching — dossier and source ledger complete
+- **Research dossier:** [research/2026-08-13-us-coin-circulation-disruption.md](../research/2026-08-13-us-coin-circulation-disruption.md)
+- **Source ledger:** [research/2026-08-13-us-coin-circulation-source-ledger.md](../research/2026-08-13-us-coin-circulation-source-ledger.md)
 - **Central question:** How can a country have billions of coins and still leave shops unable to make change?
 - **Provisional thesis:** The 2020 problem was mainly a circulation failure, not an aggregate shortage: lockdowns interrupted the businesses and routines that normally move coins back through banks and into tills.
 - **Viewer begins believing:** A coin shortage means the mint failed to produce enough metal discs.
